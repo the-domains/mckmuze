@@ -1,0 +1,74 @@
+typography_spectrum: 0.7930442248674866
+color:
+  brandColors:
+    - '#FFF5F3'
+    - '#0E080A'
+    - '#E0AE00'
+    - '#CBD5D7'
+    - '#925320'
+  brandStrength: 0.8021016984039199
+  lightness: 0.354154858983924
+  saturation: 0.0546646999711595
+  rhythmicContrast: 0.49806248949213633
+github: true
+layout_spectrum: 0.6806308369753459
+author:
+  name: Brady Mckenna
+name: Mckmuze
+navigation:
+  - name: Lyrics
+    id: f3113442-78fb-456f-8b0c-b815cb77a562
+    type: content
+  - name: VR performances
+    url: 'https://www.youtube.com/user/Mckmuze'
+    type: external
+  - name: Lyrics
+    id: 073c6813-cb55-4981-9d6e-782214eb4ac4
+    type: content
+title: Mckmuze
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: video
+    html: >-
+      <iframe
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FFhXIo1gTFIw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFhXIo1gTFIw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFhXIo1gTFIw%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
+      width="640" height="360" scrolling="no" frameborder="0"
+      allowfullscreen></iframe>
+    src: !<tag:yaml.org,2002:js/undefined> ''
+    metadata:
+      isBasedOnUrl: 'https://www.youtube.com/watch?v=FhXIo1gTFIw'
+      keywords:
+        - acoustic
+        - lead
+        - songwriting
+        - rock
+        - mckmuze
+        - vr
+        - music
+        - virtual reality
+        - vrchat
+      author:
+        - name: Mckmuze
+          url: 'https://www.youtube.com/user/Mckmuze'
+          avatar: {}
+      '@context': 'http://schema.org'
+      title: Live song writing progress of 'Sleepy Beautiful' in VR.
+      '@type': VideoObject
+      publisher:
+        name: YouTube
+        domain: www.youtube.com
+        url: 'https://www.youtube.com/'
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+      description: >-
+        Still working on the lead, lyrics, and the structure. Not sure where I'm
+        taking this one yet but this is the best overall run through to give an
+        idea of what the final studio version will be.
+      starred: false
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+description: Musician/Songwriter | VR Performer
+purpose:
+  - type: contact
+    label: Booking inquiry
+    url: 'mailto:booking@mckmuze.com'
