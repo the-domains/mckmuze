@@ -1,3 +1,4 @@
+layout_spectrum: 0.6806308369753459
 typography_spectrum: 0.7930442248674866
 color:
   brandColors:
@@ -10,10 +11,6 @@ color:
   lightness: 0.354154858983924
   saturation: 0.0546646999711595
   rhythmicContrast: 0.49806248949213633
-github: true
-layout_spectrum: 0.6806308369753459
-author:
-  name: Brady Mckenna
 name: Mckmuze
 navigation:
   - name: Lyrics
@@ -22,9 +19,6 @@ navigation:
   - name: VR performances
     url: 'https://www.youtube.com/user/Mckmuze'
     type: external
-  - name: Lyrics
-    id: 073c6813-cb55-4981-9d6e-782214eb4ac4
-    type: content
 title: Mckmuze
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
@@ -72,3 +66,6 @@ purpose:
   - type: contact
     label: Booking inquiry
     url: 'mailto:booking@mckmuze.com'
+github: true
+author:
+  name: Brady Mckenna
