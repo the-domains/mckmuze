@@ -72,3 +72,6 @@ purpose:
   - type: internal
     label: Show schedule
     item: a0d0deaf-549d-44eb-80fb-82ea088e02b9
+  - type: internal
+    label: Music
+    item: 1c829aef-bf6a-4983-af86-43e8b43c9e88
