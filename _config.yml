@@ -22,9 +22,6 @@ navigation:
   - name: VR performances
     url: 'https://www.youtube.com/user/Mckmuze'
     type: external
-  - name: Lyrics
-    id: 073c6813-cb55-4981-9d6e-782214eb4ac4
-    type: content
 title: Mckmuze
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
