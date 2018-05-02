@@ -10,62 +10,103 @@ color:
   lightness: 0.354154858983924
   saturation: 0.0546646999711595
   rhythmicContrast: 0.49806248949213633
-github: true
 layout_spectrum: 0.6806308369753459
 author:
   name: Brady Mckenna
+  email: mckmuze@gmail.com
 name: Mckmuze
 navigation:
-  - name: Lyrics
-    id: f3113442-78fb-456f-8b0c-b815cb77a562
-    type: content
   - name: VR performances
     url: 'https://www.youtube.com/user/Mckmuze'
     type: external
+  - name: Music
+    id: b34364e9-e78f-4078-8751-a439e533e915
+    type: content
+  - name: About
+    id: 74184c8b-d5f4-45e8-b985-0c275849a8e8
+    type: content
 title: Mckmuze
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: video
     html: >-
       <iframe
-      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FFhXIo1gTFIw%3Ffeature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DFhXIo1gTFIw&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FFhXIo1gTFIw%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
+      src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FaNeqdc55ZcQ%3Fstart%3D6425%26feature%3Doembed&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DaNeqdc55ZcQ&image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FaNeqdc55ZcQ%2Fhqdefault.jpg&key=a715cf41cc93453ca338d350cd26f87b&type=text%2Fhtml&schema=youtube"
       width="640" height="360" scrolling="no" frameborder="0"
       allowfullscreen></iframe>
     src: !<tag:yaml.org,2002:js/undefined> ''
     metadata:
-      isBasedOnUrl: 'https://www.youtube.com/watch?v=FhXIo1gTFIw'
+      datePublished: null
+      isBasedOnUrl: 'https://youtu.be/aNeqdc55ZcQ?t=1h47m5s'
       keywords:
-        - acoustic
-        - lead
-        - songwriting
-        - rock
-        - mckmuze
-        - vr
         - music
-        - virtual reality
-        - vrchat
+        - vr
+        - mr
+        - entertainment
+        - guitar
+        - songwriter
+        - rock
+        - acoustic
+      related: []
       author:
         - name: Mckmuze
           url: 'https://www.youtube.com/user/Mckmuze'
           avatar: {}
       '@context': 'http://schema.org'
-      title: Live song writing progress of 'Sleepy Beautiful' in VR.
+      title: VR Music tour Finale.
       '@type': VideoObject
+      app_links:
+        - url: 'vnd.youtube://www.youtube.com/watch?v=aNeqdc55ZcQ&feature=applinks'
+          type: ios
+          namespace: ai
+          app_store_id: '544007664'
+          app_name: YouTube
+        - url: 'vnd.youtube://www.youtube.com/watch?v=aNeqdc55ZcQ&feature=applinks'
+          type: android
+          namespace: ai
+          app_name: YouTube
+          package: com.google.android.youtube
+        - url: 'https://www.youtube.com/watch?v=aNeqdc55ZcQ&feature=applinks'
+          type: web
+          namespace: ai
+        - url: 'vnd.youtube://www.youtube.com/watch?v=aNeqdc55ZcQ&feature=applinks'
+          namespace: twitter
+          type: ipad
+          name: YouTube
+          id: '544007664'
+        - url: 'vnd.youtube://www.youtube.com/watch?v=aNeqdc55ZcQ&feature=applinks'
+          namespace: twitter
+          type: iphone
+          name: YouTube
+          id: '544007664'
+        - url: 'https://www.youtube.com/watch?v=aNeqdc55ZcQ'
+          namespace: twitter
+          type: googleplay
+          name: YouTube
+          id: com.google.android.youtube
+        - path: http/www.youtube.com/watch?v=aNeqdc55ZcQ
+          package: com.google.android.youtube
+          namespace: google
+          type: android
+        - path: vnd.youtube/www.youtube.com/watch?v=aNeqdc55ZcQ
+          package: '544007664'
+          namespace: google
+          type: ios
       publisher:
-        name: YouTube
-        domain: www.youtube.com
         url: 'https://www.youtube.com/'
-        favicon: 'https://s.ytimg.com/yts/img/favicon-vflz7uhzw.ico'
+        name: YouTube
+        favicon: 'https://s.ytimg.com/yts/img/favicon-vfl8qSV2F.ico'
+        domain: youtu.be
       description: >-
-        Still working on the lead, lyrics, and the structure. Not sure where I'm
-        taking this one yet but this is the best overall run through to give an
-        idea of what the final studio version will be.
-      starred: false
+        I play cover and original songs in VR. I'm performing in many different
+        virtual worlds. You can see the show schedule here: https://mckmuze.com/
+        Interactive stream: mixer.com/mckmuze
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
 description: Musician/Songwriter | VR Performer
 purpose:
   - type: internal
-    label: Show schedule
-    item: a0d0deaf-549d-44eb-80fb-82ea088e02b9
+    label: Show Schedule
+    item: 1c829aef-bf6a-4983-af86-43e8b43c9e88
+github: true
