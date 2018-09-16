@@ -26,7 +26,32 @@ navigation:
     id: 74184c8b-d5f4-45e8-b985-0c275849a8e8
     type: content
 title: Mckmuze
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b2f9aff-5050-4303-94d4-421f35694f42.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b2f9aff-5050-4303-94d4-421f35694f42.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: Musician/Songwriter | VR Performer
 purpose:
   - type: internal
