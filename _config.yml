@@ -44,7 +44,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -58,3 +57,4 @@ purpose:
     label: Show Schedule
     item: 1c829aef-bf6a-4983-af86-43e8b43c9e88
 github: true
+url: 'https://mckmuze.com/'
